@@ -1,0 +1,4 @@
+[0] Config.pm:307> INFO - This is Biber 2.17
+[0] Config.pm:310> INFO - Logfile is 'resume.blg'
+[85] biber:340> INFO - === Sun May  7, 2023, 23:25:15
+[105] Biber.pm:418> INFO - Reading 'resume.bcf'
