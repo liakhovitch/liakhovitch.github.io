@@ -19,4 +19,8 @@ generate_feed = true
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
+  d3_nav = [
+    { name = "HOME", path = "/" },
+    { name = "GITHUB", path = "https://github.com/liakhovitch"},
+    { name = "RESUME", path = "https://liakhovitch.github.io/resume/resume.pdf" },
+  ]
