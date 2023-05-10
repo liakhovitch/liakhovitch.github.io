@@ -1,10 +1,10 @@
 # Fdb version 3
-["biber resume"] 1683527114 "resume.bcf" "resume.bbl" "resume" 1683697762
-  "resume.bcf" 1683697762 106731 7cc086e5310e1a989b117ff8043d5484 "pdflatex"
+["biber resume"] 1683527114 "resume.bcf" "resume.bbl" "resume" 1683704412
+  "resume.bcf" 1683704412 106731 7cc086e5310e1a989b117ff8043d5484 "pdflatex"
   (generated)
   "resume.bbl"
   "resume.blg"
-["pdflatex"] 1683697760 "resume.tex" "resume.pdf" "resume" 1683697762
+["pdflatex"] 1683704410 "resume.tex" "resume.pdf" "resume" 1683704412
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1 4410454 a8822075016d66db9e58ff3f45d275f6 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1 2828764 1f67419ceecd938008cc75f39f684257 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/enc/dvips/cabin/cbn_i3ioen.enc" 1 2809 947aec6f9801b5a045e999c93403fba2 ""
@@ -30,8 +30,6 @@
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cm/cmsy8.tfm" 1 1120 8b7d695260f3cff42e636090a8002094 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Bold-osf-swash-t1--base.tfm" 1 1840 c771b61b6eb93b592cd1328eac1aee73 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Bold-osf-swash-t1.tfm" 1 62164 c75216b0fc6c71fd1385d0d36ab38718 ""
-  "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-BoldItalic-osf-swash-t1--base.tfm" 1 2048 554f273bd8544e53f686a628709da168 ""
-  "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-BoldItalic-osf-swash-t1.tfm" 1 51980 8fa9967b77987bb6116bec3dbade6738 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Italic-osf-swash-t1--base.tfm" 1 1992 35eedfec2dfd39cc8280b650265b286a ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Italic-osf-swash-t1.tfm" 1 50688 cddc5e4f34847be95cc04a6b50909d5e ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Roman-osf-swash-t1--base.tfm" 1 1856 526e1812c2d8a2ccaa6208f40270a195 ""
@@ -46,7 +44,6 @@
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/impallari/cabin/Cabin-Bold.pfb" 1 128058 f1b1547125b9d915547e8ee6c835af10 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/cochineal/Cochineal-Bold.pfb" 1 363515 13960d68084efa066ba753deb6197440 ""
-  "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/cochineal/Cochineal-BoldItalic.pfb" 1 342640 3c85439a63449c1d8b66dda60d80dd03 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/cochineal/Cochineal-Italic.pfb" 1 365481 5537a6f2d8c861d08b0f8e800d39fda6 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/cochineal/Cochineal-Roman.pfb" 1 386263 ef39adfd9532cc07ddd22b83667f2973 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb" 1 203772 82039ef03d29e9367f3c76d0cf70d10c ""
@@ -55,7 +52,6 @@
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/type1/public/inconsolata/Inconsolata-zi4r.pfb" 1 55526 184de5d68af8c544d6d1653244a2b006 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf" 1 1688 b6ec073ab95e17268415d5d2dd0237c1 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/public/cochineal/Cochineal-Bold-osf-swash-t1.vf" 1 1728 16d5c90b1b4c754c4db7c30b92875f90 ""
-  "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/public/cochineal/Cochineal-BoldItalic-osf-swash-t1.vf" 1 1736 707fccc30f07304e62e9b45b11c7e687 ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/public/cochineal/Cochineal-Italic-osf-swash-t1.vf" 1 1732 652edf1947fa283c848c72487a84520a ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/public/cochineal/Cochineal-Roman-osf-swash-t1.vf" 1 1720 e9efc04483e27c392979ef69ed1ce0cb ""
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/context/base/mkii/supp-pdf.mkii" 1 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -253,12 +249,12 @@
   "/nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/web2c/texmf.cnf" 1 41920 2743340dfbe9c7eec285ced36b98da1e ""
   "education.tex" 1683527926 172 89c326ff74352fd1bc8163b901ca29ee ""
   "employment.tex" 1683590723 258 30993f43538f638a121960c0f7ec2050 ""
-  "misc.tex" 1683688661 1423 bd03f339b3b4e7bfadb4da590e977665 ""
-  "resume.aux" 1683697762 1324 1a1758f726636e7f0a098e3c66363b86 "pdflatex"
+  "misc.tex" 1683704410 1549 e939411d7affa101c5a97de6d93e1018 ""
+  "resume.aux" 1683704412 1324 1a1758f726636e7f0a098e3c66363b86 "pdflatex"
   "resume.bbl" 0 -1 0 "biber resume"
   "resume.out" 0 -1 0 "pdflatex"
-  "resume.run.xml" 1683697762 2335 c7e22824f97b0a295e560fbab73cfa85 "pdflatex"
-  "resume.tex" 1683697759 2201 122d77128ae1bef96f9f6f92723f6a96 ""
+  "resume.run.xml" 1683704412 2335 c7e22824f97b0a295e560fbab73cfa85 "pdflatex"
+  "resume.tex" 1683703812 2212 0c2b98cba9a648ccd6df39c588745e4b ""
   "settings.sty" 1683550148 4302 dce5bf79765a331921c36bda8050dee1 ""
   "skills.tex" 1683688495 510 e92bec17f1abcba94b9b668a39fc2365 ""
   (generated)
