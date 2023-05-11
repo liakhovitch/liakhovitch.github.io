@@ -46,3 +46,21 @@ In my IT job at OSU, I came across a research group that was locked out of their
 ## Google Bug Bounty
 
 I stumbled upon an issue where the Google Home mobile app would crash while setting up a Google Home smart speaker. After extensive toubleshooting, I determined that this only happened whenever a wireless network with a quotation symbol in the SSID was present. I recognized this as a potential zero-click code injection vulnerability, so I reported it to the bug bounty program and received a $500 reward.
+
+## HOOT: Owl-Shaped Emergency Radio
+
+In early 2022, I made my friend a pair of owl-shaped LoRa radios as a housewarming present. Tapping one owl would make the other hoot, allowing for simple communication around the house ("Hoot, dinner is ready!"). In an emergency situation, the watertight electronics enclosures could be taken out of their owl shells and used to transmit morse code, or paired with a smartphone (via adhoc WiFi) to transmit text. HOOT is based on an ESP32 MCU with firmware in C, and implements LoRa communication, ad-hoc WiFi, a web server, speech synthesis, audio sample playback, and an integrated battery. This was all rapidly constructed over the course of one month. The hastily-written firmware is unfit for publication, but there is a [manual](public/hoot_manual.pdf).
+
+<img src='public/images/hoot.jpg'><br/><br/>
+
+## Laser Tag Proximity Mine
+
+In 2018, I felt like experimenting with the FORTH programming language. I reverse-engineered the infrared communication protocol used by a set of Hasbro laser tag blasters, then made a compatible proximity mine. The mine includes features such as IFF beacon transmission, automatic detection of the user's team, configurable damage, and more. Firmware is available on [Github](https://github.com/liakhovitch/claymore).
+
+<img src='public/images/claymore.jpg'><br/><br/>
+
+## Router Storage Expansion
+
+During my freshman year at OSU, I had a hobby of buying dirt-cheap used routers and repurposing them as general-purpose single-board computers. One particular device came with only 4MB of storage and no USB port. I found that the onboard SOC included USB support, so I glued an 8GB flash drive to the board and ran jumpers from the data pins directly to the SOC's QFN package. I then had to compile OpenWRT (a Linux distro for routers), with a custom kernel that included USB/storage drivers and practically nothing else. From there, I could set up the device to load further data from the flash drive.
+
+<img src='public/images/router.jpg'><br/><br/>
