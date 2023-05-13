@@ -47,7 +47,7 @@ In my IT job at OSU, I came across a research group that was locked out of their
 
 I stumbled upon an issue where the Google Home mobile app would crash while setting up a Google Home smart speaker. After extensive toubleshooting, I determined that this only happened whenever a wireless network with a quotation symbol in the SSID was present. I recognized this as a potential zero-click code injection vulnerability, so I reported it to the bug bounty program and received a $500 reward.
 
-<img src='public/images/home.webp'><br/><br/>
+<img src='public/images/home.jpg'><br/><br/>
 
 ## HOOT: Owl-Shaped Emergency Radio
 
