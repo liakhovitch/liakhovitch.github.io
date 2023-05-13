@@ -41,13 +41,13 @@ This is an alarm clock (AVR, firmware in C) that I built for Dr. Roger Traylor's
 
 In my IT job at OSU, I came across a research group that was locked out of their $10,000 fleet of remote sensors when the manufacturer went bankrupt and shut down their cloud services. By the end of the day, I gained root access and restored functionality to the devices. The exploit involved a TFTP misconfiguration which made it possible to retrieve the hashed root password, and a weak root password that was easily crackable.
 
-<br/>
+<img src='public/images/sensor.jpg'><br/><br/>
 
 ## Google Bug Bounty
 
 I stumbled upon an issue where the Google Home mobile app would crash while setting up a Google Home smart speaker. After extensive toubleshooting, I determined that this only happened whenever a wireless network with a quotation symbol in the SSID was present. I recognized this as a potential zero-click code injection vulnerability, so I reported it to the bug bounty program and received a $500 reward.
 
-<br/>
+<img src='public/images/home.webp'><br/><br/>
 
 ## HOOT: Owl-Shaped Emergency Radio
 
