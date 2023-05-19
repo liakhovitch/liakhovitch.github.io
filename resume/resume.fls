@@ -1262,8 +1262,6 @@ INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-fin
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/cabin/T1Cabin-TLF.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/cabin/T1Cabin-TLF.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
-INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Bold-osf-swash-t1.tfm
-INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1.tfm
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/fontawesome5/ufontawesomefree1.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/fontawesome5/ufontawesomefree1.fd
@@ -1308,6 +1306,7 @@ INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-fin
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/fontawesome5/ufontawesomefree0.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/tex/latex/fontawesome5/ufontawesomefree0.fd
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/fontawesome5/fa5free0solid.tfm
+INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Bold-osf-swash-t1.tfm
 INPUT ./employment.tex
 INPUT employment.tex
 INPUT ./employment.tex
@@ -1406,8 +1405,6 @@ INPUT misc.tex
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
-INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/impallari/cabin/Cabin-Bold-tlf-t1--base.tfm
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/public/cochineal/Cochineal-Roman-osf-swash-t1.vf
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/tfm/public/cochineal/Cochineal-Roman-osf-swash-t1--base.tfm
 INPUT /nix/store/7aplrd66k8qy4j674y85qq9adx5hnv6q-texlive-combined-full-2021-final/share/texmf/fonts/vf/impallari/cabin/Cabin-Bold-tlf-t1.vf
