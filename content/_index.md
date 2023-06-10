@@ -4,7 +4,7 @@ template = "section.html"
 +++
 
 # Anton Liakhovitch
-*Engineer*
+*Engineer*  
 aeliakhovitch@gmail.com, 971-295-0315  
 
 ---
