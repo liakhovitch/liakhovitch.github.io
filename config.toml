@@ -11,7 +11,6 @@ build_search_index = false
 theme = "d3c3nt"
 
 default_language = "en"
-generate_feed = true
 
 [markdown]
 # Whether to do syntax highlighting
@@ -22,5 +21,5 @@ highlight_code = true
   d3_nav = [
     { name = "HOME", path = "/" },
     { name = "GITHUB", path = "https://github.com/liakhovitch"},
-    { name = "RESUME", path = "https://liakhovitch.github.io/resume/resume.pdf" },
+    #{ name = "RESUME", path = "https://liakhovitch.github.io/resume/resume.pdf" },
   ]
